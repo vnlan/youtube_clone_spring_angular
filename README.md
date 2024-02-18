@@ -1,7 +1,7 @@
 # Youtube Clone Project
 
 ## Features
-User can Upload new Videos
+- User can Upload new Videos
 User can Upload Thumbnails for the Videos
 User can View Videos
 User can Like/Dislike a Video
