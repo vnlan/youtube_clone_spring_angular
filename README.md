@@ -25,7 +25,7 @@
 - Video – Store the meta data related to videos
 - User – Store the meta data related to users
 
-![alt text](https://cdn-jflfd.nitrocdn.com/XWvMVfzfEJrkgcycxrvewQaIXHcwHADn/assets/images/optimized/rev-f5a9672/i0.wp.com/programmingtechie.com/wp-content/uploads/2021/07/41f0c4328275442abda2e149ef27967b.youtube_clone_Architecture.png)
+![alt text]([https://cdn-jflfd.nitrocdn.com/XWvMVfzfEJrkgcycxrvewQaIXHcwHADn/assets/images/optimized/rev-f5a9672/i0.wp.com/programmingtechie.com/wp-content/uploads/2021/07/41f0c4328275442abda2e149ef27967b.youtube_clone_Architecture.png](https://cdn-jflfd.nitrocdn.com/XWvMVfzfEJrkgcycxrvewQaIXHcwHADn/assets/images/optimized/rev-f5a9672/i0.wp.com/programmingtechie.com/wp-content/uploads/2021/07/4ea09fe2d071c0e15fafeadb42c49237.mongodb-schema-Page-2.png)https://cdn-jflfd.nitrocdn.com/XWvMVfzfEJrkgcycxrvewQaIXHcwHADn/assets/images/optimized/rev-f5a9672/i0.wp.com/programmingtechie.com/wp-content/uploads/2021/07/4ea09fe2d071c0e15fafeadb42c49237.mongodb-schema-Page-2.png)
 
 
 ## Backend Dependencies:
