@@ -1,0 +1,36 @@
+<vg-player >
+    <vg-overlay-play></vg-overlay-play>
+    <vg-buffering></vg-buffering>
+
+    <vg-controls>
+        <vg-play-pause></vg-play-pause>
+        <vg-playback-button></vg-playback-button>
+
+        <vg-time-display vgProperty="current" vgFormat="mm:ss"></vg-time-display>
+
+        <vg-scrub-bar>
+            <vg-scrub-bar-current-time></vg-scrub-bar-current-time>
+            <vg-scrub-bar-buffering-time></vg-scrub-bar-buffering-time>
+        </vg-scrub-bar>
+
+        <vg-time-display vgProperty="left" vgFormat="mm:ss"></vg-time-display>
+        <vg-time-display vgProperty="total" vgFormat="mm:ss"></vg-time-display>
+
+        <vg-track-selector></vg-track-selector>
+        <vg-mute></vg-mute>
+        <vg-volume></vg-volume>
+
+        <vg-fullscreen></vg-fullscreen>
+    </vg-controls>
+
+    <video [vgMedia]="$any(media)" #media id="singleVideo" preload="auto" src="{{videoUrl}}">
+        <!-- <source src={{videoUrl}} type="video/mp4"> -->
+    
+        <!-- <a>{{videoUrl}}</a> -->
+    </video>
+</vg-player>
+
+<!-- <video width="320" height="240" controls>
+    <source src="https://youtube-clone-personal.s3.ap-northeast-1.amazonaws.com/d0098911-f6e8-4239-b7c9-17a67182ae45.mp4">
+   
+  </video> -->
