@@ -15,6 +15,7 @@
 - Spring Boot
 - MongoDB
 - Angular
+- Auth0 for Authentication
 - AWS S3 – to store Videos and Thumbnails
 
 ## Application Architecture
